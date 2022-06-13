@@ -5,4 +5,15 @@ Esta é uma solução para o
 
 Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
 
+## Link 
+https://emersonsep.github.io/QR-code-component/
+
 Emerson Pinheiro.
+
+# Ferramentas e método utilizado:
+
+  HTML5 semantico
+- CSS 
+- Flexbox
+- CSS Grid
+- Mobile-first 
